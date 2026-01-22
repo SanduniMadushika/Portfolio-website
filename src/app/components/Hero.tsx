@@ -58,7 +58,7 @@ export function Hero() {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full blur-2xl opacity-30"></div>
               <ImageWithFallback
-                src="src\app\components\figma\ChatGPT Image Jan 22, 2026, 06_56_35 PM.png"
+                src="src\app\components\figma\propic.png"
                 alt="Profile"
                 className="relative w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-8 border-white dark:border-gray-800 shadow-2xl"
               />
