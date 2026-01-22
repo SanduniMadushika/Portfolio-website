@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { Download, Mail } from 'lucide-react';
-import { ImageWithFallback } from '@/app/components/figma/ImageWithFallback';
+import { ImageWithFallback } from './figma/ImageWithFallback.tsx';
 
 export function Hero() {
   const scrollToContact = () => {
